@@ -1,73 +1,71 @@
-# pure-icon
- A cohesive icon collection designed for modern digital interfaces.
+# Pure Icons
 
-Pure Icon
+**A cohesive icon system designed by HASSEL.**
 
-A thoughtfully designed icon collection for digital interfaces.
+Pure Icons is an independent icon design project focused on visual consistency, recognizable forms, and a unified design language for modern digital interfaces.
 
-Pure Icon is an independent icon design project focused on visual consistency, recognizable forms, and a cohesive design language for digital products.
+The system combines carefully constructed geometric forms, layered surfaces, dimensional lighting, and considered colour relationships to create a distinctive and coherent icon collection.
 
-The project explores how familiar application symbols can be expressed through a unified visual system, combining rounded silhouettes, dimensional forms, and carefully considered colors.
+## Design Principles
 
-Design Philosophy
+Pure Icons is built around four principles:
 
-Pure Icon is built around four principles:
+- **Consistency** — a coherent visual language across the collection.
+- **Clarity** — recognizable symbols designed for quick visual interpretation.
+- **Craftsmanship** — attention to geometry, proportion, colour, lighting, and detail.
+- **Accessibility** — resources designed to make the collection easier to explore, use, and contribute to.
 
-* Consistency — a coherent visual language across the collection.
-* Clarity — recognizable symbols designed for quick visual interpretation.
-* Craftsmanship — attention to shape, proportion, color, and detail.
-* Accessibility — a commitment to making the collection easy to explore and use.
+## Project Resources
 
-Preview
+- **Official Icons** — approved SVG assets in the [`icons/`](icons/) directory.
+- **Design Guide** — documentation of the visual system and production workflow in [`design-guide/`](design-guide/).
+- **Figma Resources** — links to the original design system and community templates in [`templates/`](templates/).
 
-Preview images will be added as the collection develops.
+## Project Status
 
-Project Status
+Pure Icons is under development. The first official release is planned as **Pure Icons — Sophia**.
 
-Pure Icon is currently under development.
+The collection and its supporting resources will evolve as the design system develops.
 
-The collection and its supporting resources will evolve as the design system is refined.
+Community contributions should follow the official design guide and are subject to review before inclusion in the official icon collection.
 
-Planned improvements may include:
+## Repository Structure
 
-* Expanding the icon collection
-* Refining proportions and visual consistency
-* Organizing icons into functional categories
-* Providing clean, scalable SVG assets
-* Publishing design guidelines and usage examples
+    pure-icon/
+    ├── icons/
+    │   └── README.md
+    ├── design-guide/
+    │   └── README.md
+    ├── templates/
+    │   └── README.md
+    ├── CONTRIBUTING.md
+    ├── LICENSE
+    └── README.md
 
-Repository Structure
+The structure may evolve as the project develops.
 
-pure-icon/
-├── icons/       # Icon assets
-├── previews/    # Collection previews
-├── README.md
-└── LICENSE
+## Usage
 
-The directory structure may change as the project develops.
+Icons will be provided as scalable SVG assets for compatible design tools and digital interfaces. Review the applicable licence before reusing or adapting project materials.
 
-Usage
+## License
 
-Once the assets are published, icons can be downloaded and incorporated into compatible design workflows and digital interfaces, subject to the project’s applicable license.
+The icons and other materials explicitly designated as licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** licence may be shared and adapted, including for commercial purposes, subject to the licence terms.
 
-License
+See [`LICENSE`](LICENSE) for the licence scope and details.
 
-The licensing terms for Pure Icon will be specified here.
+The Pure Icons name, HASSEL name, logos, and other brand identifiers are not automatically licensed for unrestricted use.
 
-Until a license is published, all rights remain with their respective owners. Do not assume that the repository’s public visibility grants permission to reuse its contents.
+## Contributing
 
-Contributing
+Contributions are welcome in accordance with the project's design principles and contribution guidelines.
 
-Contribution guidelines will be published when community contributions are opened.
+See [`CONTRIBUTING.md`](CONTRIBUTING.md) for instructions. Only reviewed and approved contributions will be included in the official icon collection.
 
-About
+## About
 
-Pure Icon is an independent design project exploring a consistent visual language for digital products.
+Pure Icons is an icon design project created by HASSEL, exploring a consistent visual language for modern digital products.
 
-Created by HASSEL.
+---
 
-⸻
-
-Designed with intention. Built for clarity.
-
-NOTE: the README was translated from Hungarian to English by AI.
+*Designed with intention. Built for clarity.*
