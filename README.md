@@ -52,7 +52,7 @@ Icons will be provided as scalable SVG assets for compatible design tools and di
 
 The icons and other materials explicitly designated as licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** licence may be shared and adapted, including for commercial purposes, subject to the licence terms.
 
-See [`LICENSE`](LICENSE) for the licence scope and details.
+See [`LICENSE.md`](LICENSE.md) for the licence scope and details.
 
 The Pure Icons name, HASSEL name, logos, and other brand identifiers are not automatically licensed for unrestricted use.
 
